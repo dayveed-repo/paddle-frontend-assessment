@@ -8,7 +8,7 @@ This front end Project was developed using Next Js and Tailwind.
 3. Axios: For making the external request to github api
 
 ## Steps to Running the application
-1. Clone the repo using `git clone [www.git.com]`
+1. Clone the repo using `git clone [https://github.com/dayveed-repo/paddle-frontend-assessment.git]` for Http and SSH
 2. Move to the directory of the project cloned
 3. Then run the command `yarn install` in the root directory of the project, to install dependencies
 4. Then finally run `yarn dev`
