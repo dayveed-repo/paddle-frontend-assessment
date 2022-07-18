@@ -13,4 +13,6 @@ This front end Project was developed using Next Js and Tailwind.
 3. Then run the command `yarn install` in the root directory of the project, to install dependencies
 4. Then finally run `yarn dev`
 
-##
+## Potential Improvements
+1. If given more time, addition of coll transitions and animations to the built pages of tasks 1 will definately improve the user experience
+2. Another improvement that could be made is better implementation of workflow using github 
