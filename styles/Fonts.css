@@ -1,0 +1,16 @@
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  line-height: 30px;
+}
+
+.bold {
+  font-family: sans-serif;
+  font-weight: 800;
+}

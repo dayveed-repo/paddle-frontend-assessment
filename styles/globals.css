@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ::-webkit-scrollbar {
+  width: 20px;
+  background-color: #1a0039;
+  display: none;
+} */
+
+.background-blur {
+  background-color: rgb(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  /* z-index: 3; */
+}
+
+textarea {
+  resize: none;
+}
+
+.addScroll::-webkit-scrollbar {
+  background-color: white;
+  width: 10px;
+}
+
+.addScroll::-webkit-scrollbar-thumb {
+  background-color: grey;
+  border-radius: 8px;
+}
+
+.contactScroll::-webkit-scrollbar {
+  background-color: #1a0039;
+  width: 8px;
+}
+
+.contactScroll::-webkit-scrollbar-thumb {
+  background-color: grey;
+  border-radius: 8px;
+}
