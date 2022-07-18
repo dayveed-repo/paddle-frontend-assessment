@@ -29,7 +29,7 @@ textarea {
 }
 
 .contactScroll::-webkit-scrollbar {
-  background-color: #1a0039;
+  display: none;
   width: 8px;
 }
 

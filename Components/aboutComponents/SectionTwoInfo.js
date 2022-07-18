@@ -5,7 +5,7 @@ function SectionTwoInfo({ title, desc, num }) {
   if (num === 2)
     return (
       <div
-        className={`md:max-w-md max-w-sm absolute md:left-[60%] md:bottom-[15%]`}
+        className={`md:max-w-md max-w-sm absolute md:left-[60%] md:bottom-[40%]`}
       >
         <div className="flex flex-row items-start">
           <div className="flex flex-col">
@@ -21,7 +21,7 @@ function SectionTwoInfo({ title, desc, num }) {
     );
 
   return (
-    <div className={`max-w-md absolute md:left-[15%] md:bottom-[20%]`}>
+    <div className={`max-w-md absolute md:left-[15%] md:bottom-[40%]`}>
       <div className="flex flex-row items-start">
         <div className="flex flex-col">
           <p className="text-white text-sm">0{num}</p>
